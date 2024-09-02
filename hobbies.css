@@ -1,0 +1,29 @@
+img {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+li {
+    list-style: none;
+    margin-bottom: 60px;
+    font-size: 25px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-family: Acme ;
+}
+section {
+}
+nav {
+    font-family: Acme;
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    font-size: 25px;
+}
+body {
+    background-image: url("https://i.pinimg.com/564x/01/42/85/014285089dca42e795ac7d5fe795eb08.jpg");
+    background-size: cover;
+}
